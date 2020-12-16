@@ -1,0 +1,4 @@
+A main_kapcsolat.php fájlban módosítani kell a jelszót és felhasználót!
+1. módosítás
+2. módosítás
+3. módosítás
