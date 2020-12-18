@@ -7,7 +7,7 @@ $sql = "SELECT * FROM webaruhaz";
 $eredmeny = mysql_query($sql, $kapcsolat) or die(print("Nem tudtam az utasítást végrehajtani! A hiba oka: ".mysql_error()));
 
 // A lekérdezés kiíratása
-print("<H2>A Váradi Niki webáruház tartalma</H2>");
+print("<H2>A Sztrelcsik Zoli webáruház tartalma</H2>");
 print("<table class=\"table table-condensed table table-striped\">
 	<thead>
 		<tr>");

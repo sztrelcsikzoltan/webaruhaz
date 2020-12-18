@@ -325,7 +325,7 @@
                             <span>Sztrelcsik Zoli Webáruháza <br> Adminisztráció</span>
                         </h4>
                         <div class="organization_code">
-                            sztrelcsikzoli - 1/13.C 2. csoport
+                            Sztrelcsik Zoltán - 1/13.C 2. csoport
                         </div>
                     </div>
                     <div class="login_content">
