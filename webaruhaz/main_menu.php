@@ -7,6 +7,6 @@
 	<li><a href="http://users.atw.hu/sztrelcsikzoli/webaruhaz/processzor.php">Processzor</a></li>
 	<li><a href="http://users.atw.hu/sztrelcsikzoli/webaruhaz/ventillator.php">Ventillátor</a></li>
 	<li><a href="http://users.atw.hu/sztrelcsikzoli/webaruhaz/videokartya.php">Videókártya</a></li>
-	<li><a href="http://users.atw.hu/sztrelcsikzoli/webaruhaz/kereses.php">Keresés</a></li>
+	<li><a href="http://users.atw.hu/sztrelcsikzoli/webaruhaz/kereses1.php">Keresés</a></li>
 	<li><a href="http://users.atw.hu/sztrelcsikzoli/webaruhaz/urlap/">Admin</a></li>	
 </ul>

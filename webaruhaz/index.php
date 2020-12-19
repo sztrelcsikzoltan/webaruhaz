@@ -15,11 +15,11 @@
 <?php include 'main_fejlec.php';?>
 <?php include 'main_menu.php';?>
 <hr>
-<H2>Üdvözöllek a webáruházamban!</H2>
+<H2>Üdvözöllek a Sztrelcsik Zoli webáruházamban!</H2>
 <hr>
 
 
-  <h3>1/13.C 2. csoport IKT Projekmunka I. <span style="color:#999">(folyamatosan fejlesztve: Verzió: 1.1 - 2020. 12. 05.)</span></h3>
+  <h3>1/13.C 2. csoport IKT Projekmunka I. <span style="color:#999; font-size: 12px">(folyamatosan fejlesztve: Verzió: 1.2 - 2020. 12. 19.)</span></h3>
   <br><br>
   <div id="myCarousel" class="carousel slide" data-ride="carousel" style = "width:700; height:400">
     <!-- Indicators -->
