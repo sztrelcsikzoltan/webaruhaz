@@ -63,7 +63,7 @@ while ($sor1 = mysql_fetch_array($eredmeny1,MYSQL_ASSOC))
 				
 			if ($mezo_szamlalo == 7)
 				print("<td>
-						<form name=\"form1\" method=\"post\" action=\"kosar_vasarlas1.php\">
+						<form name=\"form1\" method=\"post\" action=\"kosar_vasarlas.php\">
 						<input name=\"termek_id\" type=\"hidden\" id=\"termek_id\" value=\"$termek_id\">
 						Kosárba<br>
 						<input type=\"image\" name=\"kosar_kepe\" src=\"kosar.png\" alt=\"\" height=\"50\" widht=\"50\">
